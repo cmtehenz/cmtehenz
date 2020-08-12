@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear 👋, I'm Gustavo Costa</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cmtehenz" alt="cmtehenz" /> </p>
 
 <!--
 **cmtehenz/cmtehenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
