@@ -45,4 +45,4 @@ I enjoy writing articles and contributing to open source projects. I also love c
 
   #### Profile Views
   
-![Visitor Count](https://profile-counter.glitch.me/{codingknite}/count.svg) 
+![](https://komarev.com/ghpvc/?username=cmtehenz&color=green)
