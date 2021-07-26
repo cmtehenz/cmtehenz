@@ -39,7 +39,7 @@ I enjoy writing articles and contributing to open source projects. I also love c
 <details>
   <summary>📊 Github Stats</summary>
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codingknite&show_icons=true&theme=gotham" alt="Gustavo" /> 
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cmtehenz&show_icons=true&theme=gotham" alt="Gustavo" /> 
 
 </details>
 
