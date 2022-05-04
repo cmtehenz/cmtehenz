@@ -2,7 +2,7 @@
 
 ## **Hey, I'm Gustavo!** 👋
 
-Am a JavaScript Developer in love with React, Node and Typesctipt (killer combo IMO). My current focus is on the Backend although I've also worked on the Frontend.
+I Am a JavaScript Developer in love with React, Node and Typesctipt (killer combo IMO). My current focus is on the Backend although I've also worked on the Frontend.
 I enjoy writing articles and contributing to open source projects. I also love catching up with other developers. Feel free to reach out on [Twitter](https://twitter.com/altevir_costa). My DMs are open.
 
 - 🔭 I’m currently working on my [portfolio]() projects
@@ -31,7 +31,7 @@ I enjoy writing articles and contributing to open source projects. I also love c
 
 ## Find me around the web 🌍
 
-- [**LinkedIn**](https://www.linkedin.com/in/cmtehenz)
+- [**LinkedIn**](https://www.linkedin.com/in/gustavo-a-costa-dev/)
 
 ********
 
