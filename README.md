@@ -10,7 +10,7 @@ I enjoy writing articles and contributing to open source projects. I also love c
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Reach out if you need help with React and JavaScript
 - 🤔 Reach out if you can offer help with Backend & APIs
-- 📫 How to reach me: [**cmtehenz@gmail.com**](mailto:cmtehenzpm@gmail.com) & [**LinkedIn**](https://linkedin.com/in/cmtehenz)
+- 📫 How to reach me: [**cmtehenz@gmail.com**](mailto:cmtehenzpm@gmail.com) & [**LinkedIn**](https://www.linkedin.com/in/gustavo-a-costa-dev/)
 
 
 ## Skills 🚀
